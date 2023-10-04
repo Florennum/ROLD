@@ -6,7 +6,7 @@ REPO_NAME="wine-ge-custom"
 check_tar="$(command -v tar)"
 check_jq="$(command -v jq)"
 check_curl="$(command -v curl)"
-check_pv="$(command -v pv)"  # Check if pv is installed
+check_pv="$(command -v pv)"
 
 # Check if tar is installed
 if [ -z "$check_tar" ]; then
