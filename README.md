@@ -31,6 +31,7 @@ If you have any issues regarding ROLD report them here in the issue tracker or d
 # TODO
 - Make automatic Vinegar/Grapejuice detection(literal hell)
 - Expand the docs(not so hell)
+- Add more features(depends)
 
 
 
