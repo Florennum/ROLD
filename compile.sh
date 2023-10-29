@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+gcc -o rold_beta ./rold/common/fetchTag/fetch-tag.c ./rold/vinegar/setGE/flatpak/f-set-ge.c ./rold/vinegar/setGE/source/set-ge.c ./rold/common/installGE/download-ge.c ./rold/common/homeDir/home-dir.c rold.c ./dependcheck/dependcheck.c ./rold/vinegar/patchWayland/flatpak/f-patch-wayland.c ./rold/vinegar/patchWayland/source/patch-wayland.c ./rold/grapejuice/setGE/flatpak/f-set-ge.c ./rold/grapejuice/setGE/source/set-ge.c ./rold/colors/colors.h
