@@ -75,6 +75,14 @@ int main(int argc, char *argv[]) {
         fvpatchwayland();
     }
 
+    if (grapejuice_flag && patch_wayland_flag) {
+        printf("Wayland patcher is not available for grapejuice at the moment!");
+    }
+    if (f_grapejuice_flag && patch_wayland_flag) {
+        printf("Wayland patcher is not available for grapejuice at the moment!");
+    }
+
+
     // Handle other cases as needed
 
     return 0;
