@@ -33,5 +33,4 @@ If you have any issues regarding ROLD report them here in the issue tracker or d
 - Expand the docs(not so hell)
 - Add more features(depends)
 
-
-
+# [Honorable Mention](https://github.com/Florennum/ROLD/blob/main/HALLOFFAME.md)
