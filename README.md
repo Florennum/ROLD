@@ -11,7 +11,7 @@ For now it has an automatic WineGE installer and Wayland cursor patcher using ga
 First we need to install the [dependencies](https://github.com/Florennum/rold/blob/main/DEPENDANCIES.md).
 Then we gotta clone the repository and go inside it with:
 ```sh
-git clone https://github.com/Florennum/rold.git
+git clone https://github.com/Florennum/ROLD.git
 cd rold
 ```
 Then we simply compile by using compile.sh
