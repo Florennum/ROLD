@@ -1,4 +1,6 @@
-# ROLD
+# ROLD(ARCHIVED)
+please use [rudis](https://github.com/Florennum/rudis) instead! 
+
 hello there!
 This is ROLD(Roblox on Linux Dispatcher)!
 # Why to use
